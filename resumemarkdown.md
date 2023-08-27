@@ -1,68 +1,75 @@
 ---
-layout: no_img
+layout: default_test
 background: '/img/bg-index.jpg'
 published: true
 ---
+.
 
-[ver pc](/resume/)
+
+[Xem version màu sắc](/resume/)
 <!-- https://github.com/mikepqr/resume.md/blob/main/resume.md?plain=1 -->
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Tran Quang Thanh Cong
+#### Senior data analyst
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
+is intended to be used for a short summary. -->
+Passionate Data Analyst with 5 years of experience working in analytics-related areas.
+
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
-
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+<!-- - <tranquangthanhcong@gmail.com>
+- [tqthanhcong.github.io](http://tqthanhcong.github.io)
+- Tp.HCM
+ -->
 
 ## Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+#### <span>Senior data analyst, MoMo e-wallet</span> <span>Jul 2021 -- present</span>
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+- Build & manage strategic level reporting on business performance, product performance, user segmentation, growth potentials
+- Build & manage operational level dashboard for tracking and rapid identification of business anomalies: KPI performance change, user behavior change, promotion fraud
+- Participate hacking user growth by exploring data to provide ideas for core team, AB testing hypotheses, evaluating the effectiveness of growth tactics
+- Build data models and document data mapping document with DE team
+- Work with the FP&A team & PMO team for financial modeling & business planning
+- Provide mentoring for business analysis, answer stakeholder ad-hoc questions with data-driven storytelling
+- Perform project management in aligning expectations from different stakeholders and connect different teams to solve business problems with data
+- Provide analytics training for team members within the marketing & sale team
+- Advanced SQL querying on Bigquery, advanced visualization on Data Studio, ETL process while optimizing data usage effectiveness
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+#### <span>Balance sheet management specialist, OCB Bank</span> <span>Feb 2018 -- Jun 2021</span>
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+- Build & manage strategic level reporting on business performance, product performance, user segmentation, growth potentials
+- Build dashboard and create analyses for monitoring assumptions and balance sheet activities (e.g. deposit balance flows, market interest rates, loan spreads, saving deposit rates, etc.).
+- Prepare reports in ALCO & Treasury meetings on balance sheet movements and drivers
+- Automate required & management reports with Excel, VBA, Power Pivot & Tableau tools
+- Analyze and forecast the impact of the government's monetary policy change on the bank
+- Research and host workshops about new technology (e.g. AI & Big data, governance cryptocurrencies) and its impact on banking to share with Treasury leaders
 
-Global movement of free coding clubs for young people.
+#### <span>Loan officer, Techcombank</span> <span>Sep 2017 -- Jan 2018</span>
 
- - Awarded 'Teacher of the Month'
+- Analyze customer financial reports and propose recommendations on customer credit limits
+- Perform corporate loan processing including communicating with borrowers, collecting and verifying documents, preparing, submitting & post-managing loan applications
 
-## Projects
+#### <span>Consulting assistant, I-Glocal Accounting Consulting Firm</span> <span>Jun 2017 -- Jul 2017</span>
+- Calculate personal income tax for Japanese clients
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
-
-## Education
-
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
 
 ## Skills
+- Analysis & Statistic: Analyze data, causal inference
+- Data warehouse: ETL, data model design
+- Visualization: Dashboarding, reporting
+- Problem solving by using data
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+## Technical
+- SQL, Python
+- Tableau, Power BI, Looker
+- Excel, Google sheet
+
+## Education
+#### <span>Bachelor's Finance, University of Economics HCM (UEH)</span> <span>Sep 2013 -- Jun 2017</span>
+- Quantitative coursework: Econometrics, Statistic, Probability, Mathematical Finance
+- Finance coursework: Corporate Finance, Investment, International Finance, Behavioral Finance
+- GPA: 8.2

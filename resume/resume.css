@@ -41,7 +41,7 @@ p { font-size: 110%; line-height: 18px; padding-right: 3em; }
 /* a { color: #990003 } */
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
-li { line-height: 24px; border-bottom: 1px solid #ccc; }
+li { line-height: 24px; border-bottom: 0px solid #ccc; }
 p.enlarge { font-size: 110%; padding-right: 6.5em; line-height: 24px; }
 p.enlarge span { color: #000 }
 .contact-info { margin-top: 7px; }
@@ -73,5 +73,3 @@ a#pdf:hover { background: #222; }
 /* --// override to force 1/8th width grids -- */
 .yui-gf .yui-u{width:80.2%;}
 .yui-gf div.first{width:12.3%;}
-
-
